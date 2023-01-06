@@ -1,4 +1,6 @@
-# flatdango-code-challenge
+# Flatdango Code Challenge
+
+Link to [deployed site](https://fatouuuu.github.io/flatdango-code-challenge/)
 
 ## Introduction  
 
