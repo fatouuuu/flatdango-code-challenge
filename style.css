@@ -44,10 +44,12 @@ body {
   align-items: center;
   justify-content: center;
   background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 25rem;
+  /* background-repeat: no-repeat; */
+  background-size: contain;
+  height: 19rem;
+  max-width: 13rem
 }
+
 
 #infoCard {
   padding: 1rem;
